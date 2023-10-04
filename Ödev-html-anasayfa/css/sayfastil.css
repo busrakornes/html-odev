@@ -1,0 +1,16 @@
+body 
+    {   background-color: pink; font-family:Arial, Helvetica, sans-serif;}
+
+       .menu div {border:solid 2px rgb(211, 120, 135);background-color: pink; padding:8px 10px; margin-bottom:5px;font-size:14px;}
+       .menu div:hover {background-color: rgb(225, 92, 114);}
+       .menu a{text-decoration:none; color:black; 
+
+   
+    }
+   
+    #tblDersler th {background-color:rgb(169, 92, 169);}
+    #tblDersler td {background-color: rgba(236, 141, 251, 0.608);}
+    #tblOgtEleman th {background-color:rgb(169, 92, 169);}
+    #tblOgtEleman td {background-color: rgba(236, 141, 251, 0.608); text-align:center;}
+    #tblIdari th{background-color:rgb(169, 92, 169);}
+    #tblIdari td{background-color: rgba(236, 141, 251, 0.608);}
